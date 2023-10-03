@@ -15,6 +15,8 @@
 		F63B27DF2ACBD9E2003742FF /* alienDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27DE2ACBD9E2003742FF /* alienDictionary.swift */; };
 		F63B27E12ACBDA18003742FF /* BOJ_10809.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27E02ACBDA18003742FF /* BOJ_10809.swift */; };
 		F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27E22ACBDAAE003742FF /* hashardNum.swift */; };
+		F63B27E52ACBDE75003742FF /* skillcheck lv1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27E42ACBDE75003742FF /* skillcheck lv1.swift */; };
+		F63B27E72ACBECF8003742FF /* divisor_sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27E62ACBECF8003742FF /* divisor_sum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +41,8 @@
 		F63B27DE2ACBD9E2003742FF /* alienDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alienDictionary.swift; sourceTree = "<group>"; };
 		F63B27E02ACBDA18003742FF /* BOJ_10809.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_10809.swift; sourceTree = "<group>"; };
 		F63B27E22ACBDAAE003742FF /* hashardNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hashardNum.swift; sourceTree = "<group>"; };
+		F63B27E42ACBDE75003742FF /* skillcheck lv1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "skillcheck lv1.swift"; sourceTree = "<group>"; };
+		F63B27E62ACBECF8003742FF /* divisor_sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisor_sum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 				F63B27DE2ACBD9E2003742FF /* alienDictionary.swift */,
 				F63B27E02ACBDA18003742FF /* BOJ_10809.swift */,
 				F63B27E22ACBDAAE003742FF /* hashardNum.swift */,
+				F63B27E42ACBDE75003742FF /* skillcheck lv1.swift */,
+				F63B27E62ACBECF8003742FF /* divisor_sum.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -149,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F63B27E72ACBECF8003742FF /* divisor_sum.swift in Sources */,
 				F63B27DB2ACBD996003742FF /* controlZ.swift in Sources */,
 				F63B27DF2ACBD9E2003742FF /* alienDictionary.swift in Sources */,
 				F63B27E12ACBDA18003742FF /* BOJ_10809.swift in Sources */,
@@ -156,6 +163,7 @@
 				F63B27D92ACBD96A003742FF /* number_partner.swift in Sources */,
 				F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */,
 				F63B27D72ACBD8CB003742FF /* maxmin.swift in Sources */,
+				F63B27E52ACBDE75003742FF /* skillcheck lv1.swift in Sources */,
 				F63B27DD2ACBD9CA003742FF /* cleanup.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
