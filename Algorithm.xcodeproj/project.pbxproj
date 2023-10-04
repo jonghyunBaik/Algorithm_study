@@ -17,6 +17,8 @@
 		F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27E22ACBDAAE003742FF /* hashardNum.swift */; };
 		F63B27E52ACBDE75003742FF /* skillcheck lv1.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27E42ACBDE75003742FF /* skillcheck lv1.swift */; };
 		F63B27E72ACBECF8003742FF /* divisor_sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27E62ACBECF8003742FF /* divisor_sum.swift */; };
+		F63B27E92ACCE7AF003742FF /* hallOfFame.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27E82ACCE7AF003742FF /* hallOfFame.swift */; };
+		F63B27EB2ACD2066003742FF /* babbling.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27EA2ACD2066003742FF /* babbling.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +45,8 @@
 		F63B27E22ACBDAAE003742FF /* hashardNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hashardNum.swift; sourceTree = "<group>"; };
 		F63B27E42ACBDE75003742FF /* skillcheck lv1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "skillcheck lv1.swift"; sourceTree = "<group>"; };
 		F63B27E62ACBECF8003742FF /* divisor_sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = divisor_sum.swift; sourceTree = "<group>"; };
+		F63B27E82ACCE7AF003742FF /* hallOfFame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hallOfFame.swift; sourceTree = "<group>"; };
+		F63B27EA2ACD2066003742FF /* babbling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = babbling.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +97,8 @@
 				F63B27E22ACBDAAE003742FF /* hashardNum.swift */,
 				F63B27E42ACBDE75003742FF /* skillcheck lv1.swift */,
 				F63B27E62ACBECF8003742FF /* divisor_sum.swift */,
+				F63B27E82ACCE7AF003742FF /* hallOfFame.swift */,
+				F63B27EA2ACD2066003742FF /* babbling.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -162,9 +168,11 @@
 				F63AD1A72ABAE9F300481497 /* main.swift in Sources */,
 				F63B27D92ACBD96A003742FF /* number_partner.swift in Sources */,
 				F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */,
+				F63B27EB2ACD2066003742FF /* babbling.swift in Sources */,
 				F63B27D72ACBD8CB003742FF /* maxmin.swift in Sources */,
 				F63B27E52ACBDE75003742FF /* skillcheck lv1.swift in Sources */,
 				F63B27DD2ACBD9CA003742FF /* cleanup.swift in Sources */,
+				F63B27E92ACCE7AF003742FF /* hallOfFame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
