@@ -23,6 +23,7 @@
 		F63B27EF2ACF0404003742FF /* compositNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27EE2ACF0404003742FF /* compositNumber.swift */; };
 		F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */; };
 		F63B27F32ACFCEDA003742FF /* fivonachi.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F22ACFCEDA003742FF /* fivonachi.swift */; };
+		F63B27F52ACFEDD0003742FF /* quickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F42ACFEDD0003742FF /* quickSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +56,7 @@
 		F63B27EE2ACF0404003742FF /* compositNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = compositNumber.swift; sourceTree = "<group>"; };
 		F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1003.swift; sourceTree = "<group>"; };
 		F63B27F22ACFCEDA003742FF /* fivonachi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fivonachi.swift; sourceTree = "<group>"; };
+		F63B27F42ACFEDD0003742FF /* quickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quickSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				F63B27EE2ACF0404003742FF /* compositNumber.swift */,
 				F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */,
 				F63B27F22ACFCEDA003742FF /* fivonachi.swift */,
+				F63B27F42ACFEDD0003742FF /* quickSort.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */,
 				F63B27EB2ACD2066003742FF /* babbling.swift in Sources */,
 				F63B27D72ACBD8CB003742FF /* maxmin.swift in Sources */,
+				F63B27F52ACFEDD0003742FF /* quickSort.swift in Sources */,
 				F63B27E52ACBDE75003742FF /* skillcheck lv1.swift in Sources */,
 				F63B27ED2ACE5A20003742FF /* BOJ_1918.swift in Sources */,
 				F63B27DD2ACBD9CA003742FF /* cleanup.swift in Sources */,

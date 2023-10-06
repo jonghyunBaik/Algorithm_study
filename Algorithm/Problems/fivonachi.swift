@@ -19,5 +19,5 @@ func fivonachiNum(_ n :Int) -> Int {
 }
 
 // map을 사용하여 피보나치 수열을 출력
-print((1...10).map{ fivonachiNum($0)})
+//print((1...10).map{ fivonachiNum($0)})
 
