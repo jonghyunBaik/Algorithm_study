@@ -21,6 +21,8 @@
 		F63B27EB2ACD2066003742FF /* babbling.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27EA2ACD2066003742FF /* babbling.swift */; };
 		F63B27ED2ACE5A20003742FF /* BOJ_1918.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27EC2ACE5A20003742FF /* BOJ_1918.swift */; };
 		F63B27EF2ACF0404003742FF /* compositNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27EE2ACF0404003742FF /* compositNumber.swift */; };
+		F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */; };
+		F63B27F32ACFCEDA003742FF /* fivonachi.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F22ACFCEDA003742FF /* fivonachi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +53,8 @@
 		F63B27EA2ACD2066003742FF /* babbling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = babbling.swift; sourceTree = "<group>"; };
 		F63B27EC2ACE5A20003742FF /* BOJ_1918.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1918.swift; sourceTree = "<group>"; };
 		F63B27EE2ACF0404003742FF /* compositNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = compositNumber.swift; sourceTree = "<group>"; };
+		F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1003.swift; sourceTree = "<group>"; };
+		F63B27F22ACFCEDA003742FF /* fivonachi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fivonachi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				F63B27EA2ACD2066003742FF /* babbling.swift */,
 				F63B27EC2ACE5A20003742FF /* BOJ_1918.swift */,
 				F63B27EE2ACF0404003742FF /* compositNumber.swift */,
+				F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */,
+				F63B27F22ACFCEDA003742FF /* fivonachi.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -168,12 +174,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				F63B27E72ACBECF8003742FF /* divisor_sum.swift in Sources */,
+				F63B27F32ACFCEDA003742FF /* fivonachi.swift in Sources */,
 				F63B27DB2ACBD996003742FF /* controlZ.swift in Sources */,
 				F63B27DF2ACBD9E2003742FF /* alienDictionary.swift in Sources */,
 				F63B27E12ACBDA18003742FF /* BOJ_10809.swift in Sources */,
 				F63B27EF2ACF0404003742FF /* compositNumber.swift in Sources */,
 				F63AD1A72ABAE9F300481497 /* main.swift in Sources */,
 				F63B27D92ACBD96A003742FF /* number_partner.swift in Sources */,
+				F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */,
 				F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */,
 				F63B27EB2ACD2066003742FF /* babbling.swift in Sources */,
 				F63B27D72ACBD8CB003742FF /* maxmin.swift in Sources */,

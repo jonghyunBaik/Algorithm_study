@@ -7,6 +7,9 @@
 
 import Foundation
 
+/**
+ 합성수(프로그래머스)
+ */
 func compositNumber(_ n:Int) -> Int {
     var count = 0
     for i in 1...n {
