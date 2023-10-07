@@ -24,6 +24,7 @@
 		F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */; };
 		F63B27F32ACFCEDA003742FF /* fivonachi.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F22ACFCEDA003742FF /* fivonachi.swift */; };
 		F63B27F52ACFEDD0003742FF /* quickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F42ACFEDD0003742FF /* quickSort.swift */; };
+		F64099A52AD0DF6E002FA5DC /* nearSameLetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64099A42AD0DF6E002FA5DC /* nearSameLetter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -57,6 +58,7 @@
 		F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1003.swift; sourceTree = "<group>"; };
 		F63B27F22ACFCEDA003742FF /* fivonachi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fivonachi.swift; sourceTree = "<group>"; };
 		F63B27F42ACFEDD0003742FF /* quickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quickSort.swift; sourceTree = "<group>"; };
+		F64099A42AD0DF6E002FA5DC /* nearSameLetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nearSameLetter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */,
 				F63B27F22ACFCEDA003742FF /* fivonachi.swift */,
 				F63B27F42ACFEDD0003742FF /* quickSort.swift */,
+				F64099A42AD0DF6E002FA5DC /* nearSameLetter.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				F63AD1A72ABAE9F300481497 /* main.swift in Sources */,
 				F63B27D92ACBD96A003742FF /* number_partner.swift in Sources */,
 				F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */,
+				F64099A52AD0DF6E002FA5DC /* nearSameLetter.swift in Sources */,
 				F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */,
 				F63B27EB2ACD2066003742FF /* babbling.swift in Sources */,
 				F63B27D72ACBD8CB003742FF /* maxmin.swift in Sources */,
