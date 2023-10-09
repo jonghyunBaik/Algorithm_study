@@ -5,7 +5,7 @@ func quickSort(arr : [Int]) -> [Int] {
         return arr
     }
     else {
-        var pivot = arr[arr.count/2-1]
+        let pivot = arr[arr.count/2-1]
         
         var arr1 : [Int] = [pivot]
         var arr2 : [Int] = []
@@ -27,11 +27,11 @@ func quickSort(arr : [Int]) -> [Int] {
 func quickSort(_ array: [Int]) -> [Int] {
     guard array.count > 1 else {return array}
     
-    var n = array.count / 2
-    var p = array[n]
-    var l = array.filter{$0 < p}
-    var r = array.filter{$0 > p}
-    var e = array.filter{$0 == p}
+    let n = array.count / 2
+    let p = array[n]
+    let l = array.filter{$0 < p}
+    let r = array.filter{$0 > p}
+    let e = array.filter{$0 == p}
     
     return quickSort(l) + e + quickSort(r)
 }
