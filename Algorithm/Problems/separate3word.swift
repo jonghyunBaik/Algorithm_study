@@ -10,7 +10,7 @@ import Foundation
  세개의 구분자(프로그래머스)
  */
 func separateWord(_ myStr:String) -> [String] {
-    var a : [String] = myStr.components(separatedBy: "a")
+    let a : [String] = myStr.components(separatedBy: "a")
     var b : [String] = []
     var c : [String] = []
     for i in a {
