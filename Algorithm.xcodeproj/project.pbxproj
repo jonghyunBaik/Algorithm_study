@@ -11,6 +11,9 @@
 		F633B7D22AD3EBA300C68A28 /* curseNum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F633B7D12AD3EBA300C68A28 /* curseNum3.swift */; };
 		F633B7D42AD3EE9800C68A28 /* rectangleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = F633B7D32AD3EE9800C68A28 /* rectangleArea.swift */; };
 		F634E36C2AD522F100FB1E5F /* developFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = F634E36B2AD522F100FB1E5F /* developFunction.swift */; };
+		F634E36E2AD5390900FB1E5F /* intTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F634E36D2AD5390900FB1E5F /* intTypes.swift */; };
+		F634E3712AD5AD8C00FB1E5F /* changeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F634E3702AD5AD8C00FB1E5F /* changeList.swift */; };
+		F634E3732AD6372B00FB1E5F /* quardCompression.swift in Sources */ = {isa = PBXBuildFile; fileRef = F634E3722AD6372B00FB1E5F /* quardCompression.swift */; };
 		F63AD1A72ABAE9F300481497 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63AD1A62ABAE9F300481497 /* main.swift */; };
 		F63B27D72ACBD8CB003742FF /* maxmin.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27D62ACBD8CB003742FF /* maxmin.swift */; };
 		F63B27D92ACBD96A003742FF /* number_partner.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27D82ACBD96A003742FF /* number_partner.swift */; };
@@ -29,6 +32,7 @@
 		F63B27F32ACFCEDA003742FF /* fivonachi.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F22ACFCEDA003742FF /* fivonachi.swift */; };
 		F63B27F52ACFEDD0003742FF /* quickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F42ACFEDD0003742FF /* quickSort.swift */; };
 		F64099A52AD0DF6E002FA5DC /* nearSameLetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64099A42AD0DF6E002FA5DC /* nearSameLetter.swift */; };
+		F65502AB2AD78299005DE211 /* separate3word.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502AA2AD78299005DE211 /* separate3word.swift */; };
 		F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,6 +53,9 @@
 		F633B7D12AD3EBA300C68A28 /* curseNum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = curseNum3.swift; sourceTree = "<group>"; };
 		F633B7D32AD3EE9800C68A28 /* rectangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rectangleArea.swift; sourceTree = "<group>"; };
 		F634E36B2AD522F100FB1E5F /* developFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = developFunction.swift; sourceTree = "<group>"; };
+		F634E36D2AD5390900FB1E5F /* intTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = intTypes.swift; sourceTree = "<group>"; };
+		F634E3702AD5AD8C00FB1E5F /* changeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changeList.swift; sourceTree = "<group>"; };
+		F634E3722AD6372B00FB1E5F /* quardCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quardCompression.swift; sourceTree = "<group>"; };
 		F63AD1A32ABAE9F300481497 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		F63AD1A62ABAE9F300481497 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F63B27D62ACBD8CB003742FF /* maxmin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxmin.swift; sourceTree = "<group>"; };
@@ -68,6 +75,7 @@
 		F63B27F22ACFCEDA003742FF /* fivonachi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fivonachi.swift; sourceTree = "<group>"; };
 		F63B27F42ACFEDD0003742FF /* quickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quickSort.swift; sourceTree = "<group>"; };
 		F64099A42AD0DF6E002FA5DC /* nearSameLetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nearSameLetter.swift; sourceTree = "<group>"; };
+		F65502AA2AD78299005DE211 /* separate3word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = separate3word.swift; sourceTree = "<group>"; };
 		F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minDivisorMaxMultiple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -132,6 +140,10 @@
 				F633B7D12AD3EBA300C68A28 /* curseNum3.swift */,
 				F633B7D32AD3EE9800C68A28 /* rectangleArea.swift */,
 				F634E36B2AD522F100FB1E5F /* developFunction.swift */,
+				F634E36D2AD5390900FB1E5F /* intTypes.swift */,
+				F634E3702AD5AD8C00FB1E5F /* changeList.swift */,
+				F634E3722AD6372B00FB1E5F /* quardCompression.swift */,
+				F65502AA2AD78299005DE211 /* separate3word.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -203,9 +215,12 @@
 				F63B27EF2ACF0404003742FF /* compositNumber.swift in Sources */,
 				F63AD1A72ABAE9F300481497 /* main.swift in Sources */,
 				F63B27D92ACBD96A003742FF /* number_partner.swift in Sources */,
+				F634E36E2AD5390900FB1E5F /* intTypes.swift in Sources */,
 				F633B7D42AD3EE9800C68A28 /* rectangleArea.swift in Sources */,
 				F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */,
+				F634E3732AD6372B00FB1E5F /* quardCompression.swift in Sources */,
 				F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */,
+				F634E3712AD5AD8C00FB1E5F /* changeList.swift in Sources */,
 				F633B7D22AD3EBA300C68A28 /* curseNum3.swift in Sources */,
 				F64099A52AD0DF6E002FA5DC /* nearSameLetter.swift in Sources */,
 				F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */,
@@ -214,6 +229,7 @@
 				F63B27F52ACFEDD0003742FF /* quickSort.swift in Sources */,
 				F63B27E52ACBDE75003742FF /* skillcheck lv1.swift in Sources */,
 				F63B27ED2ACE5A20003742FF /* BOJ_1918.swift in Sources */,
+				F65502AB2AD78299005DE211 /* separate3word.swift in Sources */,
 				F63B27DD2ACBD9CA003742FF /* cleanup.swift in Sources */,
 				F634E36C2AD522F100FB1E5F /* developFunction.swift in Sources */,
 				F63B27E92ACCE7AF003742FF /* hallOfFame.swift in Sources */,
