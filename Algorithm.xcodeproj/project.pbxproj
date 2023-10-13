@@ -36,6 +36,7 @@
 		F65502AD2AD825D0005DE211 /* process.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502AC2AD825D0005DE211 /* process.swift */; };
 		F65502AF2AD841C5005DE211 /* listSumMultiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502AE2AD841C5005DE211 /* listSumMultiply.swift */; };
 		F65502B12AD8D956005DE211 /* tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502B02AD8D956005DE211 /* tuple.swift */; };
+		F65502B32AD8E5F1005DE211 /* triangleSnail.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502B22AD8E5F1005DE211 /* triangleSnail.swift */; };
 		F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */; };
 /* End PBXBuildFile section */
 
@@ -82,6 +83,7 @@
 		F65502AC2AD825D0005DE211 /* process.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = process.swift; sourceTree = "<group>"; };
 		F65502AE2AD841C5005DE211 /* listSumMultiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listSumMultiply.swift; sourceTree = "<group>"; };
 		F65502B02AD8D956005DE211 /* tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tuple.swift; sourceTree = "<group>"; };
+		F65502B22AD8E5F1005DE211 /* triangleSnail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = triangleSnail.swift; sourceTree = "<group>"; };
 		F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minDivisorMaxMultiple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -153,6 +155,7 @@
 				F65502AC2AD825D0005DE211 /* process.swift */,
 				F65502AE2AD841C5005DE211 /* listSumMultiply.swift */,
 				F65502B02AD8D956005DE211 /* tuple.swift */,
+				F65502B22AD8E5F1005DE211 /* triangleSnail.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 				F63B27E12ACBDA18003742FF /* BOJ_10809.swift in Sources */,
 				F63B27EF2ACF0404003742FF /* compositNumber.swift in Sources */,
 				F65502AD2AD825D0005DE211 /* process.swift in Sources */,
+				F65502B32AD8E5F1005DE211 /* triangleSnail.swift in Sources */,
 				F63AD1A72ABAE9F300481497 /* main.swift in Sources */,
 				F63B27D92ACBD96A003742FF /* number_partner.swift in Sources */,
 				F634E36E2AD5390900FB1E5F /* intTypes.swift in Sources */,
