@@ -35,6 +35,7 @@
 		F65502AB2AD78299005DE211 /* separate3word.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502AA2AD78299005DE211 /* separate3word.swift */; };
 		F65502AD2AD825D0005DE211 /* process.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502AC2AD825D0005DE211 /* process.swift */; };
 		F65502AF2AD841C5005DE211 /* listSumMultiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502AE2AD841C5005DE211 /* listSumMultiply.swift */; };
+		F65502B12AD8D956005DE211 /* tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502B02AD8D956005DE211 /* tuple.swift */; };
 		F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */; };
 /* End PBXBuildFile section */
 
@@ -80,6 +81,7 @@
 		F65502AA2AD78299005DE211 /* separate3word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = separate3word.swift; sourceTree = "<group>"; };
 		F65502AC2AD825D0005DE211 /* process.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = process.swift; sourceTree = "<group>"; };
 		F65502AE2AD841C5005DE211 /* listSumMultiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listSumMultiply.swift; sourceTree = "<group>"; };
+		F65502B02AD8D956005DE211 /* tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tuple.swift; sourceTree = "<group>"; };
 		F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minDivisorMaxMultiple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -150,6 +152,7 @@
 				F65502AA2AD78299005DE211 /* separate3word.swift */,
 				F65502AC2AD825D0005DE211 /* process.swift */,
 				F65502AE2AD841C5005DE211 /* listSumMultiply.swift */,
+				F65502B02AD8D956005DE211 /* tuple.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -240,6 +243,7 @@
 				F63B27DD2ACBD9CA003742FF /* cleanup.swift in Sources */,
 				F634E36C2AD522F100FB1E5F /* developFunction.swift in Sources */,
 				F63B27E92ACCE7AF003742FF /* hallOfFame.swift in Sources */,
+				F65502B12AD8D956005DE211 /* tuple.swift in Sources */,
 				F65502AF2AD841C5005DE211 /* listSumMultiply.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
