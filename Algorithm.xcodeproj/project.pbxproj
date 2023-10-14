@@ -37,6 +37,7 @@
 		F65502AF2AD841C5005DE211 /* listSumMultiply.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502AE2AD841C5005DE211 /* listSumMultiply.swift */; };
 		F65502B12AD8D956005DE211 /* tuple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502B02AD8D956005DE211 /* tuple.swift */; };
 		F65502B32AD8E5F1005DE211 /* triangleSnail.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502B22AD8E5F1005DE211 /* triangleSnail.swift */; };
+		F65502B92ADA7BC8005DE211 /* doublePriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502B82ADA7BC8005DE211 /* doublePriorityQueue.swift */; };
 		F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */; };
 /* End PBXBuildFile section */
 
@@ -84,6 +85,7 @@
 		F65502AE2AD841C5005DE211 /* listSumMultiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listSumMultiply.swift; sourceTree = "<group>"; };
 		F65502B02AD8D956005DE211 /* tuple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tuple.swift; sourceTree = "<group>"; };
 		F65502B22AD8E5F1005DE211 /* triangleSnail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = triangleSnail.swift; sourceTree = "<group>"; };
+		F65502B82ADA7BC8005DE211 /* doublePriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = doublePriorityQueue.swift; sourceTree = "<group>"; };
 		F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minDivisorMaxMultiple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -156,6 +158,7 @@
 				F65502AE2AD841C5005DE211 /* listSumMultiply.swift */,
 				F65502B02AD8D956005DE211 /* tuple.swift */,
 				F65502B22AD8E5F1005DE211 /* triangleSnail.swift */,
+				F65502B82ADA7BC8005DE211 /* doublePriorityQueue.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -223,6 +226,7 @@
 				F63B27F32ACFCEDA003742FF /* fivonachi.swift in Sources */,
 				F63B27DB2ACBD996003742FF /* controlZ.swift in Sources */,
 				F63B27DF2ACBD9E2003742FF /* alienDictionary.swift in Sources */,
+				F65502B92ADA7BC8005DE211 /* doublePriorityQueue.swift in Sources */,
 				F63B27E12ACBDA18003742FF /* BOJ_10809.swift in Sources */,
 				F63B27EF2ACF0404003742FF /* compositNumber.swift in Sources */,
 				F65502AD2AD825D0005DE211 /* process.swift in Sources */,
