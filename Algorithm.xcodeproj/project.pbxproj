@@ -40,6 +40,7 @@
 		F65502B92ADA7BC8005DE211 /* doublePriorityQueue.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502B82ADA7BC8005DE211 /* doublePriorityQueue.swift */; };
 		F65502BB2ADB95A9005DE211 /* makeMinimum.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502BA2ADB95A9005DE211 /* makeMinimum.swift */; };
 		F65502BD2ADBEF5E005DE211 /* arrayCut.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502BC2ADBEF5E005DE211 /* arrayCut.swift */; };
+		F65502BF2ADC0ECB005DE211 /* nationalTestSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502BE2ADC0ECB005DE211 /* nationalTestSelection.swift */; };
 		F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */; };
 /* End PBXBuildFile section */
 
@@ -90,6 +91,7 @@
 		F65502B82ADA7BC8005DE211 /* doublePriorityQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = doublePriorityQueue.swift; sourceTree = "<group>"; };
 		F65502BA2ADB95A9005DE211 /* makeMinimum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeMinimum.swift; sourceTree = "<group>"; };
 		F65502BC2ADBEF5E005DE211 /* arrayCut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrayCut.swift; sourceTree = "<group>"; };
+		F65502BE2ADC0ECB005DE211 /* nationalTestSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nationalTestSelection.swift; sourceTree = "<group>"; };
 		F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minDivisorMaxMultiple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -165,6 +167,7 @@
 				F65502B82ADA7BC8005DE211 /* doublePriorityQueue.swift */,
 				F65502BA2ADB95A9005DE211 /* makeMinimum.swift */,
 				F65502BC2ADBEF5E005DE211 /* arrayCut.swift */,
+				F65502BE2ADC0ECB005DE211 /* nationalTestSelection.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 				F63B27D92ACBD96A003742FF /* number_partner.swift in Sources */,
 				F634E36E2AD5390900FB1E5F /* intTypes.swift in Sources */,
 				F633B7D42AD3EE9800C68A28 /* rectangleArea.swift in Sources */,
+				F65502BF2ADC0ECB005DE211 /* nationalTestSelection.swift in Sources */,
 				F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */,
 				F634E3732AD6372B00FB1E5F /* quardCompression.swift in Sources */,
 				F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */,

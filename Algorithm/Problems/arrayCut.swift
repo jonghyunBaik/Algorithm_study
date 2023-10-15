@@ -30,3 +30,5 @@ func arrayCut(_ arr:[Int], _ query:[Int]) -> [Int] {
     }
     return arr1
 }
+
+
