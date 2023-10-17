@@ -41,6 +41,8 @@
 		F65502BB2ADB95A9005DE211 /* makeMinimum.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502BA2ADB95A9005DE211 /* makeMinimum.swift */; };
 		F65502BD2ADBEF5E005DE211 /* arrayCut.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502BC2ADBEF5E005DE211 /* arrayCut.swift */; };
 		F65502BF2ADC0ECB005DE211 /* nationalTestSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502BE2ADC0ECB005DE211 /* nationalTestSelection.swift */; };
+		F65502C12ADCB90E005DE211 /* fivePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502C02ADCB90E005DE211 /* fivePeople.swift */; };
+		F670F8A62ADE44AA006ECEC5 /* carpet.swift in Sources */ = {isa = PBXBuildFile; fileRef = F670F8A52ADE44AA006ECEC5 /* carpet.swift */; };
 		F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */; };
 /* End PBXBuildFile section */
 
@@ -92,6 +94,8 @@
 		F65502BA2ADB95A9005DE211 /* makeMinimum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeMinimum.swift; sourceTree = "<group>"; };
 		F65502BC2ADBEF5E005DE211 /* arrayCut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = arrayCut.swift; sourceTree = "<group>"; };
 		F65502BE2ADC0ECB005DE211 /* nationalTestSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nationalTestSelection.swift; sourceTree = "<group>"; };
+		F65502C02ADCB90E005DE211 /* fivePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fivePeople.swift; sourceTree = "<group>"; };
+		F670F8A52ADE44AA006ECEC5 /* carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carpet.swift; sourceTree = "<group>"; };
 		F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minDivisorMaxMultiple.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -168,6 +172,8 @@
 				F65502BA2ADB95A9005DE211 /* makeMinimum.swift */,
 				F65502BC2ADBEF5E005DE211 /* arrayCut.swift */,
 				F65502BE2ADC0ECB005DE211 /* nationalTestSelection.swift */,
+				F65502C02ADCB90E005DE211 /* fivePeople.swift */,
+				F670F8A52ADE44AA006ECEC5 /* carpet.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -238,6 +244,7 @@
 				F65502B92ADA7BC8005DE211 /* doublePriorityQueue.swift in Sources */,
 				F63B27E12ACBDA18003742FF /* BOJ_10809.swift in Sources */,
 				F63B27EF2ACF0404003742FF /* compositNumber.swift in Sources */,
+				F670F8A62ADE44AA006ECEC5 /* carpet.swift in Sources */,
 				F65502BB2ADB95A9005DE211 /* makeMinimum.swift in Sources */,
 				F65502AD2AD825D0005DE211 /* process.swift in Sources */,
 				F65502BD2ADBEF5E005DE211 /* arrayCut.swift in Sources */,
@@ -260,6 +267,7 @@
 				F63B27E52ACBDE75003742FF /* skillcheck lv1.swift in Sources */,
 				F63B27ED2ACE5A20003742FF /* BOJ_1918.swift in Sources */,
 				F65502AB2AD78299005DE211 /* separate3word.swift in Sources */,
+				F65502C12ADCB90E005DE211 /* fivePeople.swift in Sources */,
 				F63B27DD2ACBD9CA003742FF /* cleanup.swift in Sources */,
 				F634E36C2AD522F100FB1E5F /* developFunction.swift in Sources */,
 				F63B27E92ACCE7AF003742FF /* hallOfFame.swift in Sources */,
