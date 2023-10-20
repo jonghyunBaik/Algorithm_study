@@ -43,6 +43,7 @@
 		F65502BF2ADC0ECB005DE211 /* nationalTestSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502BE2ADC0ECB005DE211 /* nationalTestSelection.swift */; };
 		F65502C12ADCB90E005DE211 /* fivePeople.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502C02ADCB90E005DE211 /* fivePeople.swift */; };
 		F667B7172AE0B95B00F093E6 /* randomKNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F667B7162AE0B95B00F093E6 /* randomKNumber.swift */; };
+		F667B7192AE2016300F093E6 /* subStringToString.swift in Sources */ = {isa = PBXBuildFile; fileRef = F667B7182AE2016300F093E6 /* subStringToString.swift */; };
 		F670F8A62ADE44AA006ECEC5 /* carpet.swift in Sources */ = {isa = PBXBuildFile; fileRef = F670F8A52ADE44AA006ECEC5 /* carpet.swift */; };
 		F670F8D52ADF7CBB006ECEC5 /* leftright.swift in Sources */ = {isa = PBXBuildFile; fileRef = F670F8D42ADF7CBB006ECEC5 /* leftright.swift */; };
 		F670F8D72ADFA096006ECEC5 /* sumOfHideNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F670F8D62ADFA096006ECEC5 /* sumOfHideNumber.swift */; };
@@ -99,6 +100,7 @@
 		F65502BE2ADC0ECB005DE211 /* nationalTestSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nationalTestSelection.swift; sourceTree = "<group>"; };
 		F65502C02ADCB90E005DE211 /* fivePeople.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fivePeople.swift; sourceTree = "<group>"; };
 		F667B7162AE0B95B00F093E6 /* randomKNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = randomKNumber.swift; sourceTree = "<group>"; };
+		F667B7182AE2016300F093E6 /* subStringToString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subStringToString.swift; sourceTree = "<group>"; };
 		F670F8A52ADE44AA006ECEC5 /* carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carpet.swift; sourceTree = "<group>"; };
 		F670F8D42ADF7CBB006ECEC5 /* leftright.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leftright.swift; sourceTree = "<group>"; };
 		F670F8D62ADFA096006ECEC5 /* sumOfHideNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumOfHideNumber.swift; sourceTree = "<group>"; };
@@ -183,6 +185,7 @@
 				F670F8D42ADF7CBB006ECEC5 /* leftright.swift */,
 				F670F8D62ADFA096006ECEC5 /* sumOfHideNumber.swift */,
 				F667B7162AE0B95B00F093E6 /* randomKNumber.swift */,
+				F667B7182AE2016300F093E6 /* subStringToString.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 				F63B27E12ACBDA18003742FF /* BOJ_10809.swift in Sources */,
 				F63B27EF2ACF0404003742FF /* compositNumber.swift in Sources */,
 				F670F8A62ADE44AA006ECEC5 /* carpet.swift in Sources */,
+				F667B7192AE2016300F093E6 /* subStringToString.swift in Sources */,
 				F65502BB2ADB95A9005DE211 /* makeMinimum.swift in Sources */,
 				F65502AD2AD825D0005DE211 /* process.swift in Sources */,
 				F65502BD2ADBEF5E005DE211 /* arrayCut.swift in Sources */,
