@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F60533802AE5FBF500049709 /* buyCoffee.swift in Sources */ = {isa = PBXBuildFile; fileRef = F605337F2AE5FBF500049709 /* buyCoffee.swift */; };
+		F60533822AE7406200049709 /* lastTwoElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60533812AE7406200049709 /* lastTwoElements.swift */; };
 		F633B7D02AD3DB4A00C68A28 /* throwBall.swift in Sources */ = {isa = PBXBuildFile; fileRef = F633B7CF2AD3DB4A00C68A28 /* throwBall.swift */; };
 		F633B7D22AD3EBA300C68A28 /* curseNum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F633B7D12AD3EBA300C68A28 /* curseNum3.swift */; };
 		F633B7D42AD3EE9800C68A28 /* rectangleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = F633B7D32AD3EE9800C68A28 /* rectangleArea.swift */; };
@@ -63,6 +65,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F605337F2AE5FBF500049709 /* buyCoffee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buyCoffee.swift; sourceTree = "<group>"; };
+		F60533812AE7406200049709 /* lastTwoElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lastTwoElements.swift; sourceTree = "<group>"; };
 		F633B7CF2AD3DB4A00C68A28 /* throwBall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = throwBall.swift; sourceTree = "<group>"; };
 		F633B7D12AD3EBA300C68A28 /* curseNum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = curseNum3.swift; sourceTree = "<group>"; };
 		F633B7D32AD3EE9800C68A28 /* rectangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rectangleArea.swift; sourceTree = "<group>"; };
@@ -186,6 +190,8 @@
 				F670F8D62ADFA096006ECEC5 /* sumOfHideNumber.swift */,
 				F667B7162AE0B95B00F093E6 /* randomKNumber.swift */,
 				F667B7182AE2016300F093E6 /* subStringToString.swift */,
+				F605337F2AE5FBF500049709 /* buyCoffee.swift */,
+				F60533812AE7406200049709 /* lastTwoElements.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -266,6 +272,7 @@
 				F63B27D92ACBD96A003742FF /* number_partner.swift in Sources */,
 				F634E36E2AD5390900FB1E5F /* intTypes.swift in Sources */,
 				F633B7D42AD3EE9800C68A28 /* rectangleArea.swift in Sources */,
+				F60533822AE7406200049709 /* lastTwoElements.swift in Sources */,
 				F65502BF2ADC0ECB005DE211 /* nationalTestSelection.swift in Sources */,
 				F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */,
 				F634E3732AD6372B00FB1E5F /* quardCompression.swift in Sources */,
@@ -274,6 +281,7 @@
 				F633B7D22AD3EBA300C68A28 /* curseNum3.swift in Sources */,
 				F64099A52AD0DF6E002FA5DC /* nearSameLetter.swift in Sources */,
 				F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */,
+				F60533802AE5FBF500049709 /* buyCoffee.swift in Sources */,
 				F63B27EB2ACD2066003742FF /* babbling.swift in Sources */,
 				F63B27D72ACBD8CB003742FF /* maxmin.swift in Sources */,
 				F667B7172AE0B95B00F093E6 /* randomKNumber.swift in Sources */,
