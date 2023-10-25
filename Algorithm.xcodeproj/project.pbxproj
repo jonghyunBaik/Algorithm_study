@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		F60533802AE5FBF500049709 /* buyCoffee.swift in Sources */ = {isa = PBXBuildFile; fileRef = F605337F2AE5FBF500049709 /* buyCoffee.swift */; };
 		F60533822AE7406200049709 /* lastTwoElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60533812AE7406200049709 /* lastTwoElements.swift */; };
+		F605338D2AE89AA100049709 /* area2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F605338C2AE89AA100049709 /* area2.swift */; };
 		F633B7D02AD3DB4A00C68A28 /* throwBall.swift in Sources */ = {isa = PBXBuildFile; fileRef = F633B7CF2AD3DB4A00C68A28 /* throwBall.swift */; };
 		F633B7D22AD3EBA300C68A28 /* curseNum3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F633B7D12AD3EBA300C68A28 /* curseNum3.swift */; };
 		F633B7D42AD3EE9800C68A28 /* rectangleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = F633B7D32AD3EE9800C68A28 /* rectangleArea.swift */; };
@@ -67,6 +68,7 @@
 /* Begin PBXFileReference section */
 		F605337F2AE5FBF500049709 /* buyCoffee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buyCoffee.swift; sourceTree = "<group>"; };
 		F60533812AE7406200049709 /* lastTwoElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lastTwoElements.swift; sourceTree = "<group>"; };
+		F605338C2AE89AA100049709 /* area2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = area2.swift; sourceTree = "<group>"; };
 		F633B7CF2AD3DB4A00C68A28 /* throwBall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = throwBall.swift; sourceTree = "<group>"; };
 		F633B7D12AD3EBA300C68A28 /* curseNum3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = curseNum3.swift; sourceTree = "<group>"; };
 		F633B7D32AD3EE9800C68A28 /* rectangleArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rectangleArea.swift; sourceTree = "<group>"; };
@@ -192,6 +194,7 @@
 				F667B7182AE2016300F093E6 /* subStringToString.swift */,
 				F605337F2AE5FBF500049709 /* buyCoffee.swift */,
 				F60533812AE7406200049709 /* lastTwoElements.swift */,
+				F605338C2AE89AA100049709 /* area2.swift */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */,
 				F634E3712AD5AD8C00FB1E5F /* changeList.swift in Sources */,
 				F633B7D22AD3EBA300C68A28 /* curseNum3.swift in Sources */,
+				F605338D2AE89AA100049709 /* area2.swift in Sources */,
 				F64099A52AD0DF6E002FA5DC /* nearSameLetter.swift in Sources */,
 				F63B27E32ACBDAAE003742FF /* hashardNum.swift in Sources */,
 				F60533802AE5FBF500049709 /* buyCoffee.swift in Sources */,
