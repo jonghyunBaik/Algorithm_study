@@ -1,6 +1,13 @@
+//
+//  코드처리하기.swift
+//  Algorithm
+//
+//  Created by jonghyun baik on 10/30/23.
+//
+
 import Foundation
 
-func solution1(_ code:String) -> String {
+func 코드처리하기(_ code:String) -> String {
     var mode = true
     var answer : String = ""
     var temp : [Character] = Array(code)
@@ -21,5 +28,5 @@ func solution1(_ code:String) -> String {
         }
     }
     
-    return answer
+    return answer == "" ? "EMPTY" : answer
 }
