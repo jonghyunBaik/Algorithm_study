@@ -52,6 +52,8 @@
 		F670F8D52ADF7CBB006ECEC5 /* leftright.swift in Sources */ = {isa = PBXBuildFile; fileRef = F670F8D42ADF7CBB006ECEC5 /* leftright.swift */; };
 		F670F8D72ADFA096006ECEC5 /* sumOfHideNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F670F8D62ADFA096006ECEC5 /* sumOfHideNumber.swift */; };
 		F6835CE22AE9EB4600E99131 /* countUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6835CE12AE9EB4600E99131 /* countUp.swift */; };
+		F6A5ADD32AF1D61C00798DC2 /* 그림확대.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6A5ADD22AF1D61C00798DC2 /* 그림확대.swift */; };
+		F6A5ADEC2AF32CD100798DC2 /* 문자열 밀기.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6A5ADEB2AF32CD100798DC2 /* 문자열 밀기.swift */; };
 		F6D4CD342AF07F2800FBA1A5 /* 문자열섞기.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6D4CD332AF07F2800FBA1A5 /* 문자열섞기.swift */; };
 		F6D4CD362AF0857800FBA1A5 /* 배열만들기2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6D4CD352AF0857800FBA1A5 /* 배열만들기2.swift */; };
 		F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */; };
@@ -116,6 +118,8 @@
 		F670F8D42ADF7CBB006ECEC5 /* leftright.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leftright.swift; sourceTree = "<group>"; };
 		F670F8D62ADFA096006ECEC5 /* sumOfHideNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumOfHideNumber.swift; sourceTree = "<group>"; };
 		F6835CE12AE9EB4600E99131 /* countUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countUp.swift; sourceTree = "<group>"; };
+		F6A5ADD22AF1D61C00798DC2 /* 그림확대.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "그림확대.swift"; sourceTree = "<group>"; };
+		F6A5ADEB2AF32CD100798DC2 /* 문자열 밀기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열 밀기.swift"; sourceTree = "<group>"; };
 		F6D4CD332AF07F2800FBA1A5 /* 문자열섞기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열섞기.swift"; sourceTree = "<group>"; };
 		F6D4CD352AF0857800FBA1A5 /* 배열만들기2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "배열만들기2.swift"; sourceTree = "<group>"; };
 		F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minDivisorMaxMultiple.swift; sourceTree = "<group>"; };
@@ -154,6 +158,7 @@
 				F63B27D52ACBD896003742FF /* Problems */,
 				F63AD1A62ABAE9F300481497 /* main.swift */,
 				F6D4CD352AF0857800FBA1A5 /* 배열만들기2.swift */,
+				F6A5ADD22AF1D61C00798DC2 /* 그림확대.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -205,6 +210,7 @@
 				F60533812AE7406200049709 /* lastTwoElements.swift */,
 				F605338C2AE89AA100049709 /* area2.swift */,
 				F6835CE12AE9EB4600E99131 /* countUp.swift */,
+				F6A5ADEB2AF32CD100798DC2 /* 문자열 밀기.swift */,
 				F62521942AEF369500348D55 /* 코드처리하기.swift */,
 				F6D4CD332AF07F2800FBA1A5 /* 문자열섞기.swift */,
 			);
@@ -280,6 +286,7 @@
 				F63B27EF2ACF0404003742FF /* compositNumber.swift in Sources */,
 				F670F8A62ADE44AA006ECEC5 /* carpet.swift in Sources */,
 				F667B7192AE2016300F093E6 /* subStringToString.swift in Sources */,
+				F6A5ADEC2AF32CD100798DC2 /* 문자열 밀기.swift in Sources */,
 				F65502BB2ADB95A9005DE211 /* makeMinimum.swift in Sources */,
 				F65502AD2AD825D0005DE211 /* process.swift in Sources */,
 				F65502BD2ADBEF5E005DE211 /* arrayCut.swift in Sources */,
@@ -292,6 +299,7 @@
 				F65502BF2ADC0ECB005DE211 /* nationalTestSelection.swift in Sources */,
 				F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */,
 				F634E3732AD6372B00FB1E5F /* quardCompression.swift in Sources */,
+				F6A5ADD32AF1D61C00798DC2 /* 그림확대.swift in Sources */,
 				F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */,
 				F634E3712AD5AD8C00FB1E5F /* changeList.swift in Sources */,
 				F633B7D22AD3EBA300C68A28 /* curseNum3.swift in Sources */,
