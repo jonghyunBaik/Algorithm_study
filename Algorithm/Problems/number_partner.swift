@@ -11,7 +11,7 @@ import Foundation
 숫자 짝궁(프로그래머스)
  **/
 
-func solution(_ X:String, _ Y:String) -> String {
+func partnerNum(_ X:String, _ Y:String) -> String {
     var arr1 : [Character] = Array(X)
     var arr2 : [Character] = Array(Y)
     var maxNum : String = ""

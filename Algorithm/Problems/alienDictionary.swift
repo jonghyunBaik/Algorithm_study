@@ -10,7 +10,7 @@ import Foundation
 /**
  외계어 사전 (프로그래머스)
  **/
-func solution(_ spell:[String], _ dic:[String]) -> Int {
+func 외계어사전(_ spell:[String], _ dic:[String]) -> Int {
     var ans = 1
     var arr : [[Character]] = []
     for i in dic {

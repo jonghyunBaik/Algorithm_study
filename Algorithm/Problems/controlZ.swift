@@ -11,7 +11,7 @@ import Foundation
  컨트롤 제트
  */
 
-func solution(_ s:String) -> Int {
+func controlZ(_ s:String) -> Int {
     let arr : [String] = s.components(separatedBy: " ")
     var arrA : [Int] = []
     var sum = 0

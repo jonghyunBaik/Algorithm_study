@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ board:[String]) -> Int {
+func 리코쳇로봇(_ board:[String]) -> Int {
     let newBoard = board.map { $0.map { String($0)}}
     let n = newBoard.count
     let m = newBoard[0].count

@@ -11,7 +11,7 @@ import Foundation
 최솟값 최대값(프로그래머스)
  **/
 
-func solution(_ s:String) -> String {
+func maxmin(_ s:String) -> String {
     let arr : [String] = s.components(separatedBy: " ")
     var arr1 : [Int] = []
     for i in arr {

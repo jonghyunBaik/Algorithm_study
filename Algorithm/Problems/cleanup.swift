@@ -10,7 +10,7 @@ import Foundation
  바탕화면 정리(프로그래머스)
  **/
 
-func solution(_ wallpaper:[String]) -> [Int] {
+func cleanDesktop(_ wallpaper:[String]) -> [Int] {
     var answer : [Int] = []
     var arr : [[Character]] = []
     for i in wallpaper {

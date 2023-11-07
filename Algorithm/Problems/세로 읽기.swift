@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ my_string:String, _ m:Int, _ c:Int) -> String {
+func 세로읽기(_ my_string:String, _ m:Int, _ c:Int) -> String {
     var answer = ""
     let a : [Character] = Array(my_string)
     for i in 0..<my_string.count {
