@@ -48,6 +48,9 @@
 		F6570A0C2AF7DB9D004E0410 /* 리코쳇로봇.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6570A0B2AF7DB9D004E0410 /* 리코쳇로봇.swift */; };
 		F6570A0E2AF87642004E0410 /* 세로 읽기.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6570A0D2AF87642004E0410 /* 세로 읽기.swift */; };
 		F6570A102AF9BC3E004E0410 /* 문자열겹쳐쓰기.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6570A0F2AF9BC3E004E0410 /* 문자열겹쳐쓰기.swift */; };
+		F6570A122AF9C3E5004E0410 /* 최빈값.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6570A112AF9C3E5004E0410 /* 최빈값.swift */; };
+		F6570A142AFB0B93004E0410 /* 조건문자열.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6570A132AFB0B93004E0410 /* 조건문자열.swift */; };
+		F6570A1A2AFB143F004E0410 /* 다항식더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6570A192AFB143F004E0410 /* 다항식더하기.swift */; };
 		F667B7172AE0B95B00F093E6 /* randomKNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = F667B7162AE0B95B00F093E6 /* randomKNumber.swift */; };
 		F667B7192AE2016300F093E6 /* subStringToString.swift in Sources */ = {isa = PBXBuildFile; fileRef = F667B7182AE2016300F093E6 /* subStringToString.swift */; };
 		F670F8A62ADE44AA006ECEC5 /* carpet.swift in Sources */ = {isa = PBXBuildFile; fileRef = F670F8A52ADE44AA006ECEC5 /* carpet.swift */; };
@@ -117,6 +120,9 @@
 		F6570A0B2AF7DB9D004E0410 /* 리코쳇로봇.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "리코쳇로봇.swift"; sourceTree = "<group>"; };
 		F6570A0D2AF87642004E0410 /* 세로 읽기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "세로 읽기.swift"; sourceTree = "<group>"; };
 		F6570A0F2AF9BC3E004E0410 /* 문자열겹쳐쓰기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열겹쳐쓰기.swift"; sourceTree = "<group>"; };
+		F6570A112AF9C3E5004E0410 /* 최빈값.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최빈값.swift"; sourceTree = "<group>"; };
+		F6570A132AFB0B93004E0410 /* 조건문자열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "조건문자열.swift"; sourceTree = "<group>"; };
+		F6570A192AFB143F004E0410 /* 다항식더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다항식더하기.swift"; sourceTree = "<group>"; };
 		F667B7162AE0B95B00F093E6 /* randomKNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = randomKNumber.swift; sourceTree = "<group>"; };
 		F667B7182AE2016300F093E6 /* subStringToString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = subStringToString.swift; sourceTree = "<group>"; };
 		F670F8A52ADE44AA006ECEC5 /* carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carpet.swift; sourceTree = "<group>"; };
@@ -177,6 +183,9 @@
 				F63B27DE2ACBD9E2003742FF /* alienDictionary.swift */,
 				F63B27E02ACBDA18003742FF /* BOJ_10809.swift */,
 				F63B27E22ACBDAAE003742FF /* hashardNum.swift */,
+				F6570A112AF9C3E5004E0410 /* 최빈값.swift */,
+				F6570A132AFB0B93004E0410 /* 조건문자열.swift */,
+				F6570A192AFB143F004E0410 /* 다항식더하기.swift */,
 				F6570A0F2AF9BC3E004E0410 /* 문자열겹쳐쓰기.swift */,
 				F63B27E62ACBECF8003742FF /* divisor_sum.swift */,
 				F63B27E82ACCE7AF003742FF /* hallOfFame.swift */,
@@ -306,6 +315,7 @@
 				F634E36E2AD5390900FB1E5F /* intTypes.swift in Sources */,
 				F633B7D42AD3EE9800C68A28 /* rectangleArea.swift in Sources */,
 				F60533822AE7406200049709 /* lastTwoElements.swift in Sources */,
+				F6570A1A2AFB143F004E0410 /* 다항식더하기.swift in Sources */,
 				F65502BF2ADC0ECB005DE211 /* nationalTestSelection.swift in Sources */,
 				F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */,
 				F634E3732AD6372B00FB1E5F /* quardCompression.swift in Sources */,
@@ -328,9 +338,11 @@
 				F65502AB2AD78299005DE211 /* separate3word.swift in Sources */,
 				F670F8D52ADF7CBB006ECEC5 /* leftright.swift in Sources */,
 				F6D4CD362AF0857800FBA1A5 /* 배열만들기2.swift in Sources */,
+				F6570A122AF9C3E5004E0410 /* 최빈값.swift in Sources */,
 				F62521952AEF369500348D55 /* 코드처리하기.swift in Sources */,
 				F65502C12ADCB90E005DE211 /* fivePeople.swift in Sources */,
 				F6570A0E2AF87642004E0410 /* 세로 읽기.swift in Sources */,
+				F6570A142AFB0B93004E0410 /* 조건문자열.swift in Sources */,
 				F63B27DD2ACBD9CA003742FF /* cleanup.swift in Sources */,
 				F634E36C2AD522F100FB1E5F /* developFunction.swift in Sources */,
 				F63B27E92ACCE7AF003742FF /* hallOfFame.swift in Sources */,
