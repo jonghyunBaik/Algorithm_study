@@ -34,6 +34,7 @@
 		F63B27F12ACFCD3E003742FF /* BOJ_1003.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */; };
 		F63B27F32ACFCEDA003742FF /* fivonachi.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F22ACFCEDA003742FF /* fivonachi.swift */; };
 		F63B27F52ACFEDD0003742FF /* quickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63B27F42ACFEDD0003742FF /* quickSort.swift */; };
+		F63FF2322B021F5B0017C8F3 /* 주사위게임3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F63FF2312B021F5B0017C8F3 /* 주사위게임3.swift */; };
 		F64099A52AD0DF6E002FA5DC /* nearSameLetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64099A42AD0DF6E002FA5DC /* nearSameLetter.swift */; };
 		F65502AB2AD78299005DE211 /* separate3word.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502AA2AD78299005DE211 /* separate3word.swift */; };
 		F65502AD2AD825D0005DE211 /* process.swift in Sources */ = {isa = PBXBuildFile; fileRef = F65502AC2AD825D0005DE211 /* process.swift */; };
@@ -66,6 +67,7 @@
 		F6D4CD342AF07F2800FBA1A5 /* 문자열섞기.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6D4CD332AF07F2800FBA1A5 /* 문자열섞기.swift */; };
 		F6D4CD362AF0857800FBA1A5 /* 배열만들기2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6D4CD352AF0857800FBA1A5 /* 배열만들기2.swift */; };
 		F6EC68ED2AD28C0300A171BD /* minDivisorMaxMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */; };
+		F6F8FEC52B0311A900D792FF /* 다음에올숫자.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F8FEC42B0311A900D792FF /* 다음에올숫자.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -109,6 +111,7 @@
 		F63B27F02ACFCD3E003742FF /* BOJ_1003.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1003.swift; sourceTree = "<group>"; };
 		F63B27F22ACFCEDA003742FF /* fivonachi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fivonachi.swift; sourceTree = "<group>"; };
 		F63B27F42ACFEDD0003742FF /* quickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quickSort.swift; sourceTree = "<group>"; };
+		F63FF2312B021F5B0017C8F3 /* 주사위게임3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "주사위게임3.swift"; sourceTree = "<group>"; };
 		F64099A42AD0DF6E002FA5DC /* nearSameLetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nearSameLetter.swift; sourceTree = "<group>"; };
 		F65502AA2AD78299005DE211 /* separate3word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = separate3word.swift; sourceTree = "<group>"; };
 		F65502AC2AD825D0005DE211 /* process.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = process.swift; sourceTree = "<group>"; };
@@ -141,6 +144,7 @@
 		F6D4CD332AF07F2800FBA1A5 /* 문자열섞기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열섞기.swift"; sourceTree = "<group>"; };
 		F6D4CD352AF0857800FBA1A5 /* 배열만들기2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "배열만들기2.swift"; sourceTree = "<group>"; };
 		F6EC68EC2AD28C0300A171BD /* minDivisorMaxMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minDivisorMaxMultiple.swift; sourceTree = "<group>"; };
+		F6F8FEC42B0311A900D792FF /* 다음에올숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다음에올숫자.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -232,6 +236,8 @@
 				F68107492AFC6A820029E668 /* 문자열여러번뒤집기.swift */,
 				F681074F2AFDE27C0029E668 /* 접미사배열.swift */,
 				F6A9377B2AFF25D2008B6C39 /* 특이한정렬.swift */,
+				F63FF2312B021F5B0017C8F3 /* 주사위게임3.swift */,
+				F6F8FEC42B0311A900D792FF /* 다음에올숫자.swift */,
 				F6A5ADEB2AF32CD100798DC2 /* 문자열 밀기.swift */,
 				F6D4CD352AF0857800FBA1A5 /* 배열만들기2.swift */,
 				F6C906B62AF516920027C91A /* 문자열뒤의n글자.swift */,
@@ -303,6 +309,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F63B27E72ACBECF8003742FF /* divisor_sum.swift in Sources */,
+				F6F8FEC52B0311A900D792FF /* 다음에올숫자.swift in Sources */,
 				F633B7D02AD3DB4A00C68A28 /* throwBall.swift in Sources */,
 				F63B27F32ACFCEDA003742FF /* fivonachi.swift in Sources */,
 				F63B27DB2ACBD996003742FF /* controlZ.swift in Sources */,
@@ -351,6 +358,7 @@
 				F670F8D52ADF7CBB006ECEC5 /* leftright.swift in Sources */,
 				F6D4CD362AF0857800FBA1A5 /* 배열만들기2.swift in Sources */,
 				F6570A122AF9C3E5004E0410 /* 최빈값.swift in Sources */,
+				F63FF2322B021F5B0017C8F3 /* 주사위게임3.swift in Sources */,
 				F62521952AEF369500348D55 /* 코드처리하기.swift in Sources */,
 				F65502C12ADCB90E005DE211 /* fivePeople.swift in Sources */,
 				F6570A0E2AF87642004E0410 /* 세로 읽기.swift in Sources */,
